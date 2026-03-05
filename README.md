@@ -16,10 +16,12 @@ Output:
 PSG 5 - 6 Barcelona (aggregate)
 
 Debug log:
-Neymar free kick  
-Neymar penalty  
+
+Neymar free kick
+Neymar penalty
 Neymar assist
 Neymar Jr🤙
+
 
 <details>
   <summary>😅</summary>
