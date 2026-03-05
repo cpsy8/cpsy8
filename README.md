@@ -4,9 +4,25 @@ I work as a full-time software developer, rest of the time I explore STEM, Histo
 
 If there is still time left, I play Football⚽ or watch Youtube📺
 
+🦥 Want to know who my favorite football player is?
 <details>
-<summary>👇Click to reveal my favourite football player</summary>
+<summary>👇</summary>
+Input:
+PSG 4 - 0 Barcelona (first leg)
 
-There will never be a second to Neymar Jr🤙
+Processing...
 
+Output:
+PSG 5 - 6 Barcelona (aggregate)
+
+Debug log:
+Neymar free kick  
+Neymar penalty  
+Neymar assist
+Neymar Jr🤙
+
+<details>
+  <summary>😅</summary>
+  Bye, see you👋
+</details>
 </details>
